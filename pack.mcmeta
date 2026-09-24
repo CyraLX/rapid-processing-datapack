@@ -1,0 +1,32 @@
+{ 
+	"id": "rapid-processing",
+	"pack": {
+		"min_format": 121,
+		"max_format": 9999,
+		"description": [
+			{
+				"text": "Rapid Proccesing",
+				"color": "#7700C7"
+			},
+			{
+				"text": " | ",
+				"color": "dark_gray"
+			},
+			{
+				"text": "v1.0.0",
+				"color": "dark_aqua"
+			},
+			"\n",
+			{
+				"text": "By ",
+				"color": "gray",
+				"extra": [
+					{
+						"text": "CyraLX",
+						"color": "#7700F7"
+					}
+				]
+			}
+		]
+	}
+}
